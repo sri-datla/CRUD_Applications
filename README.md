@@ -1,3 +1,3 @@
 # CRUD_Applications
 
-Create, Read, Update and Delete with Python and Mysql.
+1. Create, Read, Update and Delete with Python and Mysql.
